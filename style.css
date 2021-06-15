@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    width: auto ;
+    background-size: 100%;
+    background-image: linear-gradient(
+        to left,
+        rgb(158, 42, 93),
+        rgb(237, 68, 159)
+    )
+}
+
+h1 {
+    text-align: center;
+    color: rgb(230, 223, 223);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    padding: 5%;
+    letter-spacing: -2px;
+}
+
+div{
+    display: table-cell;
+    column-count: 4;
+    width: 25%;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(248, 215, 255);
+}
+
